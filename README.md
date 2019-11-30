@@ -17,11 +17,11 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 1. Clone the repository
     ```sh
-    git clone https://github.com/pspritesh/laravel-vue-base-package.git
+    git clone https://github.com/pspritesh/laravel-mvc-base-package.git
     ```
 2. Go to root directory and install all dependencies
    ```sh
-   cd laravel-vue-base-package
+   cd laravel-mvc-base-package
    composer install
    ```
 3. Then create the `.env` file as well as generate Laravel Application key using following commands
