@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Laravel Vue Base Package
+## Laravel MVC Base Package
 
-This is the base setup of Laravel framework which contains normal Laravel package used to develop MVC applications. Laravel uses Blade as its templating engine to create dynamic Views.
+This is the base setup of Laravel framework which contains normal Laravel package used to develop MVC applications.
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
